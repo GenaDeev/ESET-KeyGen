@@ -1,4 +1,4 @@
-name: Generator
+name: Generador
 
 on:
   workflow_dispatch:
